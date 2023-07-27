@@ -1,1 +1,1 @@
-![](assets/dev-blogs.png)
+![](assets/dev-blogs-v3.png)
